@@ -6,7 +6,7 @@ An AI-powered customer support chatbot for a video streaming platform. It detect
 ## 1. How to Run the Project Locally
 
 ### Prerequisites
-- Python 3.9+
+- Python 3.10
 - A [Mistral AI](https://mistral.ai) API key
 
 ### 1. Clone the Repository
