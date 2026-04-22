@@ -1,0 +1,24 @@
+# Core LLM & Agent Framework
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.3
+
+# Vector Store
+faiss-cpu>=1.7.4
+
+# Embeddings (HuggingFace)
+sentence-transformers>=2.2.2
+
+# Mistral (via OpenAI-compatible client)
+openai>=1.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HuggingFace tokenizers/transformers (needed by sentence-transformers)
+transformers>=4.36.0
+torch>=2.0.0
+
+streamlit>=1.35.0
